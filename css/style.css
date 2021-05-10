@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: black;
+}
+canvas {
+  position: absolute;
+}
+
+@media(max-width:992px) {
+  body {
+    background: black no-repeat center;
+  }
+}
